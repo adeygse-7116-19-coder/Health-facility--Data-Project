@@ -81,4 +81,4 @@ adey
 
 ## Purpose
 
-This project was developed for educational purposes to practice Python programming, user input, and mathematical calculations.
+This project was developed for educational purposes to practice Python programming, user input, and mathematical calculation.
